@@ -1,6 +1,6 @@
-## Hi, I'm Sachin Kumar  👋<br>
+## <h1>Hi, I'm Sachin Kumar  👋<h1><br>
 
-Computer Science Student @RMKCET <br>
+<h3>Computer Science Student @RMKCET <h3>
 <tr>
 
 
