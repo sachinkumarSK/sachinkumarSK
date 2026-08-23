@@ -1,7 +1,6 @@
 ## <h1>Hi, I'm Sachin Kumar  👋<h1><br>
 
-<h3>Computer Science Student @RMKCET <h3>
-<tr>
+<h3>Final Year Computer Science Student @RMKCET <h3>
 
 
 ## 🌐 Socials:
